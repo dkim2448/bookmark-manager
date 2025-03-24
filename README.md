@@ -1,6 +1,6 @@
 # input and tab saver chrome extension
 
-## showcase:
+### showcase:
 <img src="/assets/Screenshot 2025-03-24 113547.png">
 
 ## overview
