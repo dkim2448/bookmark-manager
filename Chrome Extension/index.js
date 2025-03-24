@@ -51,3 +51,10 @@ inputBtn.addEventListener("click", function() {
     localStorage.setItem("myTabs", JSON.stringify(myTabs));
     render(myTabs);
 })
+
+// dark mode function
+document.getElementById("dark").addEventListener("click", darkMode);
+
+function darkMode() {
+    document.body.classList.toggle("dark-theme");
+}

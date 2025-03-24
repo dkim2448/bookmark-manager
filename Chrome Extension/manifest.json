@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Bookmark Manager",
+    "name": "input/tab manager",
     "action": {
         "default_popup": "index.html",
         "default_icon": "open-folder.png"
