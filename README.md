@@ -1,27 +1,28 @@
-<h1>Input and Tab Saver Chrome Extension</h1>
-<h2>Overview</h2>
-<p>This Tab Saver Chrome Extension allows users to save and manage their currently active tabs with a simple interface. It provides functionalities to save active tabs, view saved tabs, and clear all saved tabs. Additionally, users can manually add URLs to their saved tabs list.</p>
+# input and tab saver chrome extension
 
-<h2>Features</h2>
-<ul>
-    <li><strong>Save Active Tab:</strong> Save the URL of the currently active tab to a list.</li>
-    <li><strong>View Saved Tabs:</strong> Display all saved tabs as clickable links.</li>
-    <li><strong>Clear All Tabs:</strong> Remove all saved tabs from the list.</li>
-    <li><strong>Manually Add URL:</strong> Add any URL manually to the list of saved tabs.</li>
-</ul>
+## overview
 
-<h2>Installation</h2>
-<ol>
-    <li>Clone or download this repository.</li>
-    <li>Open Chrome and go to <code>chrome://extensions/</code>.</li>
-    <li>Enable "Developer mode" (toggle in the upper right corner).</li>
-    <li>Click on "Load unpacked" and select the directory containing this extension.</li>
-</ol>
+this tab saver chrome extension allows users to save and manage their currently active tabs with a simple interface.  
+it provides functionalities to save active tabs, view saved tabs, and clear all saved tabs.  
+additionally, users can manually add urls to their saved tabs list.
 
-<h2>Usage</h2>
-<ul>
-    <li><strong>Save Active Tab:</strong> Click the "Save Tab" button to save the URL of the currently active tab.</li>
-    <li><strong>View Saved Tabs:</strong> The saved tabs will be displayed in the extension popup as clickable links.</li>
-    <li><strong>Clear All Tabs:</strong> Click the "Delete All" button to remove all saved tabs.</li>
-    <li><strong>Manually Add URL:</strong> Enter a URL in the input field and click "Add" to save it to the list.</li>
-</ul>
+## features
+
+- **save active tab:** save the url of the currently active tab to a list.  
+- **view saved tabs:** display all saved tabs as clickable links.  
+- **clear all tabs:** remove all saved tabs from the list.  
+- **manually add url:** add any url manually to the list of saved tabs.
+
+## installation
+
+1. clone or download this repository.  
+2. open chrome and go to `chrome://extensions/`.  
+3. enable "developer mode" (toggle in the upper right corner).  
+4. click on "load unpacked" and select the directory containing this extension.
+
+## usage
+
+- **save active tab:** click the "save tab" button to save the url of the currently active tab.  
+- **view saved tabs:** the saved tabs will be displayed in the extension popup as clickable links.  
+- **clear all tabs:** click the "delete all" button to remove all saved tabs.  
+- **manually add url:** enter a url in the input field and click "add" to save it to the list.
